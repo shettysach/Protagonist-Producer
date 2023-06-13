@@ -3,7 +3,7 @@
 ![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/dba37ad0-6cc1-4c7b-b675-c19f76364c62)
 
 
-Protagonist Producer is an OpenAI API app that lets you create a character. By typing in a brief idea, you get back a character portrait, a character name and a synopsis/backstory for your character.
+Protagonist Producer is an OpenAI API app that lets you create a character. By typing in a brief idea, you get back a character portrait, a character name and a synopsis/backstory for your character using OpenAI API for Text-Davinci-003 and DALL·E.
 
 ### Steps to run:
 1. Paste your OpenAI API key in string format in inplace of "Your OpenAI API Key" in 'env_sample.js'
@@ -17,10 +17,16 @@ Protagonist Producer is an OpenAI API app that lets you create a character. By t
 
 ### Input: Futuristic dark ninja who fights with neon swords.
 ![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/3c42205d-d4af-4e99-a70b-5362101ca56e)
+![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/0a9ced06-211d-4595-a730-c61331fec082)
+
 
 ### Input: A strong boxer with flaming fists and a strong determination to win.
 ![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/4bbaff25-e3fd-4bc6-a775-105241a6826b)
 ![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/fde83030-462c-4aac-9cdd-2201f57fd33b)
+
+### Input: Dark, vengeful swordsman with a cat sidekick.
+![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/720210eb-c425-480d-8a41-664aeb18af6a)
+![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/9116e891-b3bd-488e-b6b8-bcb693f6f256)
 
 
 
