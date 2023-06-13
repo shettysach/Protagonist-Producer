@@ -41,7 +41,7 @@ async function fetchName(outline){
 async function fetchSynopsis(outline, name){
   const response = await openai.createCompletion({
     model: 'text-davinci-003',
-    prompt: `Generate an engaging backstory for a character based on the idea "${outline} and name ${name} in 100 to 150 words."
+    prompt: `Generate an engaging backstory for a character based on the idea "${outline} and name ${name} in 100 to 150 words"
     
     Outline: ${outline}
     
@@ -59,8 +59,8 @@ async function fetchSynopsis(outline, name){
 
 async function fetchImage(outline, name){
   const response = await openai.createImage({
-    prompt: `Create a character portrait for ${outline} with name ${name}. The portrait should have an appropriate background and artstyle. 
-    Keep in mind the genre, setting. The image should contain no text`,
+    prompt: `Create a character portrait for ${outline} who has the name ${name}. The portrait should have an appropriate background and artstyle
+    and should not contain any text. Keep in mind the genre, setting.`,
     n: 1,
     size : '256x256',
     response_format: 'b64_json'
