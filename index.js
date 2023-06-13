@@ -41,7 +41,7 @@ async function fetchName(outline){
 async function fetchSynopsis(outline, name){
   const response = await openai.createCompletion({
     model: 'text-davinci-003',
-    prompt: `Generate an engaging backstory for a character based on the idea "${outline} and name ${name}"
+    prompt: `Generate an engaging backstory for a character based on the idea "${outline} and name ${name} in 100 to 150 words."
     
     Outline: ${outline}
     
@@ -50,7 +50,7 @@ async function fetchSynopsis(outline, name){
     Occupation/ Motivations/ Ambitions
     Synopsis / Backstory: 
     `,
-    max_tokens: 150
+    max_tokens: 250
   })
   const synopsis = response.data.choices[0].text.trim()
   document.getElementById('output-text').innerText = synopsis
