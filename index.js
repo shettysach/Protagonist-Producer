@@ -1,8 +1,5 @@
-import { Configuration, OpenAIApi } from 'openai'
 import { process } from '/env'
-
-const setupInputContainer = document.getElementById('setup-input-container')
-const IntroText = document.getElementById('intro-text')
+import { Configuration, OpenAIApi } from 'openai'
 
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY
@@ -10,25 +7,18 @@ const configuration = new Configuration({
 
 const openai = new OpenAIApi(configuration)
 
+const setupInputContainer = document.getElementById('setup-input-container')
+const IntroText = document.getElementById('intro-text')
+
 document.getElementById("send-btn").addEventListener("click", () => {
   const setupTextarea = document.getElementById('setup-textarea') 
   if (setupTextarea.value) {
     const userInput = setupTextarea.value
     setupInputContainer.innerHTML = `<img src="images/loading.svg" class="loading" id="loading">`
-    IntroText.innerText = `Processing your ideas and inspirations`
-  
-  fetchBotReply()
+    IntroText.innerText = `Processing your ideas`
   fetchName(userInput)
   }
 }) 
-
-
-const apiKey = process.env.OPENAI_API_KEY
-
-async function fetchBotReply(){
-  IntroText.innerText = "Your character is being created"
-}
-
 
 async function fetchName(outline){
   const response = await openai.createCompletion({
