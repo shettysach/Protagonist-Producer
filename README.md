@@ -20,8 +20,7 @@ Protagonist Producer is an OpenAI API app that lets you create a character. By t
 ![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/0a9ced06-211d-4595-a730-c61331fec082)
 
 ### Input: An old school gangster with a liking for gold.
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/8e68d5f2-1ab2-42e3-a30b-a2b93ea290b7)
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/66da013c-62f7-41ad-b437-f12258ff24ea)
+
 
 ### Input: A strong boxer with flaming fists and a strong determination to win.
 ![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/4bbaff25-e3fd-4bc6-a775-105241a6826b)
