@@ -15,5 +15,5 @@ Protagonist Producer is an OpenAI API app that lets you create a character. By t
 	```
 ## Sample outputs:
 
-###Input: Futuristic dark ninja who fights with neon swords.
+### Input: Futuristic dark ninja who fights with neon swords.
 ![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/3c42205d-d4af-4e99-a70b-5362101ca56e)
