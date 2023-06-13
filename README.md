@@ -1,3 +1,4 @@
+![alt text]([http://url/to/img.jpg](https://github.com/SachShetty/Protagonist-Producer/blob/main/outputs/Home.jpg))
 
 # Protagonist Producer
 Protagonist Producer is an OpenAI API app that lets you create a character. By typing in a brief idea, you get back a character portrait, a character name and a synopsis/backstory for your character.
