@@ -1,6 +1,6 @@
 # Protagonist Producer
 
-<a href="url"><img src="outputs/Home.png" width=75% height=75% ></a>
+<img src="outputs/Home.png" width=50% height=50% >
 
 Protagonist Producer is an OpenAI API app that lets you create a character. By typing in a brief idea, you get back a character portrait, a character name and a synopsis/backstory for your character using OpenAI API for Text-Davinci-003 and DALL·E.
 
@@ -15,15 +15,15 @@ Protagonist Producer is an OpenAI API app that lets you create a character. By t
 ## Sample outputs:
 
 ### Input: Futuristic dark ninja who fights with neon swords.
-<a href="url"><img src="outputs/A1.png" width=60% height=60% ></a>
-<a href="url"><img src="outputs/A2.png" width=60% height=60% ></a>
+<img src="outputs/A1.png" width=60% height=60% >
+<img src="outputs/A2.png" width=60% height=60% >
 
 ### Input: An old school gangster with a liking for gold.
-<a href="url"><img src="outputs/B1.png" width=60% height=60% ></a>
-<a href="url"><img src="outputs/B2.png" width=60% height=60% ></a>
+<img src="outputs/B1.png" width=60% height=60% >
+<img src="outputs/B2.png" width=60% height=60% >
 
 ### Input: Dark, vengeful swordsman with a cat sidekick.
-<a href="url"><img src="outputs/C1.png" width=60% height=60% ></a>
-<a href="url"><img src="outputs/C2.png" width=60% height=60% ></a>
+<img src="outputs/C1.png" width=60% height=60% >
+<img src="outputs/C2.png" width=60% height=60% >
 
 
