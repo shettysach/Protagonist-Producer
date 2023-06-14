@@ -1,6 +1,6 @@
 # Protagonist Producer
 
-<a href="url"><img src="outputs/Home.png" height="1280" width="720"></a>
+<a href="url"><img src="outputs/Home.png" width=75% height=75% ></a>
 
 Protagonist Producer is an OpenAI API app that lets you create a character. By typing in a brief idea, you get back a character portrait, a character name and a synopsis/backstory for your character using OpenAI API for Text-Davinci-003 and DALL·E.
 
@@ -15,22 +15,15 @@ Protagonist Producer is an OpenAI API app that lets you create a character. By t
 ## Sample outputs:
 
 ### Input: Futuristic dark ninja who fights with neon swords.
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/3c42205d-d4af-4e99-a70b-5362101ca56e)
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/0a9ced06-211d-4595-a730-c61331fec082)
+<a href="url"><img src="outputs/A1.png" width=60% height=60% ></a>
+<a href="url"><img src="outputs/A2.png" width=60% height=60% ></a>
 
 ### Input: An old school gangster with a liking for gold.
-
-
-### Input: A strong boxer with flaming fists and a strong determination to win.
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/4bbaff25-e3fd-4bc6-a775-105241a6826b)
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/fde83030-462c-4aac-9cdd-2201f57fd33b)
+<a href="url"><img src="outputs/B1.png" width=60% height=60% ></a>
+<a href="url"><img src="outputs/B2.png" width=60% height=60% ></a>
 
 ### Input: Dark, vengeful swordsman with a cat sidekick.
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/720210eb-c425-480d-8a41-664aeb18af6a)
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/9116e891-b3bd-488e-b6b8-bcb693f6f256)
-
-## Other outputs:
-![image](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/1f44c5a8-6fc4-4eeb-b249-e9771d1fa423)
-
+<a href="url"><img src="outputs/C1.png" width=60% height=60% ></a>
+<a href="url"><img src="outputs/C2.png" width=60% height=60% ></a>
 
 
