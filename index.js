@@ -59,8 +59,7 @@ async function fetchSynopsis(outline, name){
 
 async function fetchImage(outline, name){
   const response = await openai.createImage({
-    prompt: `Create a character portrait for ${outline} who has the name ${name}. The portrait should have an appropriate background and artstyle
-    and should not contain any text. Keep in mind the genre, setting.`,
+    prompt: `Create a character portrait for ${outline} who has the name ${name}. The portrait should have an appropriate background, artstyle and should not contain any text. Keep in mind the genre, setting.`,
     n: 1,
     size : '256x256',
     response_format: 'b64_json'
