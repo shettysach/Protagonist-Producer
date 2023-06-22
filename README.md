@@ -1,6 +1,6 @@
 # Protagonist Producer
 
-![Home](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/4de73991-e40a-4e87-bc93-090c16d06507)
+![Home](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/03237e69-0e39-42a2-85b6-6dabfd4d67ee)
 
 Protagonist Producer is an OpenAI API app that lets you create a character. By typing in a brief idea, you get back a character portrait, a character name and a synopsis/backstory for your character using OpenAI API for Text-Davinci-003 and DALL·E.
 
