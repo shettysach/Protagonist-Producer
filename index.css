@@ -60,10 +60,11 @@ header>img {
 }
 
 header>a {
-    color: #a371ff;
     font-size: 1.5em;
     text-decoration: none;
     padding: 1em 0;
+    color: #ffffff;
+    
 }
 
 header span {
@@ -261,7 +262,7 @@ footer {
 }
 
 a:link {
-    color: #a371ff;
+    color: #e8e8e8;
     background-color: transparent;
     text-decoration: none;
   }
