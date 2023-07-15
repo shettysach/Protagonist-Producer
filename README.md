@@ -13,6 +13,8 @@ Protagonist Producer is an OpenAI API app that lets you create a character. By t
 	```shell 
 	npm start
 	```
+ 5. Click on the localhost link.
+
 ## Sample outputs:
 
 ### Input: Futuristic dark ninja who fights with neon swords.
