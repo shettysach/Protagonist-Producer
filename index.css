@@ -64,7 +64,6 @@ header>a {
     text-decoration: none;
     padding: 1em 0;
     color: #ffffff;
-    
 }
 
 header span {
@@ -261,8 +260,8 @@ footer {
     text-align: center;
 }
 
-a:link {
-    color: #e8e8e8;
+  a:link {
+    color: #a371ff;
     background-color: transparent;
     text-decoration: none;
   }
@@ -280,7 +279,7 @@ a:link {
   }
   
   a:active {
-    color: #ffffff;
+    color: #7C4DFF;
     background-color: transparent;
     text-decoration: underline;
   }
