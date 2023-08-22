@@ -1,4 +1,4 @@
-# Protagonist Producer
+pp# Protagonist Producer
 
 ![Home](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/03237e69-0e39-42a2-85b6-6dabfd4d67ee)
 
@@ -6,7 +6,7 @@ Protagonist Producer is an OpenAI API app that lets you create a character. By t
 
 ### Steps to run:
 1. [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SachShetty/Protagonist-Producer) the files and extract.
-2. Paste your OpenAI API key in string format in inplace of "Your OpenAI API Key" in 'env_sample.js'.
+2. Paste your OpenAI API key in string format in place of "Your OpenAI API Key" in 'env_sample.js'.
    [(How to get an OpenAI API key)](https://tfthacker.medium.com/how-to-get-your-own-api-key-for-using-openai-chatgpt-in-obsidian-41b7dd71f8d3)
 3. Then rename 'env_sample.js' file to 'env.js'.
 4. Type the command in the terminal of the Protagonist-Producer-main folder
