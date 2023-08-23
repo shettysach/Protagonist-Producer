@@ -1,4 +1,4 @@
-pp# Protagonist Producer
+# Protagonist Producer
 
 ![Home](https://github.com/SachShetty/Protagonist-Producer/assets/132273464/03237e69-0e39-42a2-85b6-6dabfd4d67ee)
 
