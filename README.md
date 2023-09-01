@@ -16,7 +16,7 @@ Protagonist Producer is an OpenAI API app that lets you create a character. By t
  5. Click on the localhost link.
 
 or
-### You can now use GitHub Pages deployed website - https://sachshetty.github.io/Protagonist-Producer-Deploy/
+### You can now use GitHub Pages deployed website - https://shettysach.github.io/Protagonist-Producer-Deploy/
 
 #### Deployed website repo - https://github.com/ShettySach/Protagonist-Producer-Deploy
 
