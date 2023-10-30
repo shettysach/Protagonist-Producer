@@ -15,11 +15,6 @@ Protagonist Producer is an AI character creator app, power by the OpenAI API. By
 	```
  5. Click on the localhost link.
 
-or
-you can now use GitHub Pages deployed website - https://shettysach.github.io/Protagonist-Producer-Deploy/
-
-Deployed website repo - </br> https://github.com/ShettySach/Protagonist-Producer-Deploy
-
 ## Sample outputs:
 
 ### Input: Futuristic dark ninja who fights with neon swords.
