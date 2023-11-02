@@ -5,11 +5,10 @@
 Protagonist Producer is an AI character creator app, power by the OpenAI API. By typing in a brief idea, you get back a character portrait, a character name and a synopsis/backstory for your character using OpenAI API for Text-Davinci-003 and DALL·E 2.
 
 ### Steps to run:
-1. [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SachShetty/Protagonist-Producer) the files and extract / Clone the repository.
-2. Paste your OpenAI API key in string format in place of "Your OpenAI API Key" in 'env_sample.js'.<br>
+1. Clone the repository / [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SachShetty/Protagonist-Producer) the files and extract 
+2. Paste your OpenAI API key in string format in place of "Your OpenAI API Key" in 'env.js'.<br>
    [(How to get an OpenAI API key)](https://tfthacker.medium.com/how-to-get-your-own-api-key-for-using-openai-chatgpt-in-obsidian-41b7dd71f8d3)
-3. Then rename 'env_sample.js' file to 'env.js'.
-4. Type the command in the terminal of the Protagonist-Producer-main folder
+3. Type the command in the terminal of the Protagonist-Producer-main folder
 	```shell 
 	npm start
 	```
