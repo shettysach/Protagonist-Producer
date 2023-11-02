@@ -5,7 +5,8 @@
     --border-rad-lg: 15px;
 }
 
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
     font-size: 16px;
@@ -16,12 +17,12 @@ body {
     background-size: cover;
     background-repeat: repeat-y;
     background-image: url(images/back.png);
-    
+
     height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
+
 }
 
 /* =================
@@ -64,6 +65,18 @@ header>a {
     color: #ffffff;
 }
 
+header>a:link {
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+header>a:visited {
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
 header span {
     font-weight: 700;
 }
@@ -75,7 +88,7 @@ main {
 section {
     margin: 0 auto;
     background-color: #212121;
-    
+
     padding: .25em 1em;
     box-shadow: 0px 1px 18px 3px var(--dark);
     max-width: 420px;
@@ -195,17 +208,18 @@ button:hover {
 }
 
 .view-char-btn {
-    position:absolute;
-    top:480px;
+    position: absolute;
+    top: 480px;
     border-top-right-radius: 0;
     border-top-left-radius: var(--border-rad-lg);
-    border-bottom-right-radius: var(--border-rad-lg);;
+    border-bottom-right-radius: var(--border-rad-lg);
+    ;
     border-bottom-left-radius: 0;
     padding: 1em;
     margin: .4em auto;
     display: block;
     height: 60px;
-    
+
     font-family: 'Archivo', sans-serif;
     color: #D1C4E9;
     font-size: 100%;
@@ -234,7 +248,7 @@ img.loading {
     margin: 1em auto;
     color: var(--dark);
     padding: 1em;
-    
+
     font-family: 'Archivo', sans-serif;
     color: #D1C4E9;
     font-size: 100%;
@@ -258,26 +272,26 @@ footer {
     text-align: center;
 }
 
-  a:link {
+a:link {
     color: #a371ff;
     background-color: transparent;
     text-decoration: none;
-  }
-  
-  a:visited {
+}
+
+a:visited {
     color: #a371ff;
     background-color: transparent;
     text-decoration: none;
-  }
-  
-  a:hover {
+}
+
+a:hover {
     color: #7C4DFF;
     background-color: transparent;
     text-decoration: underline;
-  }
-  
-  a:active {
+}
+
+a:active {
     color: #7C4DFF;
     background-color: transparent;
     text-decoration: underline;
-  }
+}

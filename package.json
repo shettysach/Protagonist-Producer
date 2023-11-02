@@ -1,7 +1,7 @@
 {
   "name": "project",
   "dependencies": {
-    "openai": "3.2.1"
+    "openai": "^4.14.2"
   },
   "devDependencies": {
     "vite": "latest"
