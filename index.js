@@ -29,7 +29,7 @@ async function fetchName(outline) {
         prompt: `Generate a short and creative character name for a character described by "${outline}. It should fit the genre and settings of the character.`,
         max_tokens: 15
     })
-    const name = response.choices[0].message;
+    const name = response.choices[0].text.trim();
     document.getElementById('output-title').innerText = name
     console.log(name)
     fetchImage(outline, name)
@@ -50,7 +50,7 @@ async function fetchSynopsis(outline, name) {
     `,
         max_tokens: 250
     })
-    const synopsis = response.choices[0].message;
+    const synopsis = response.choices[0].text.trim();
     document.getElementById('output-text').innerText = synopsis
     console.log(synopsis)
 }
