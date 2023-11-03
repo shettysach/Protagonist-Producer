@@ -1,5 +1,5 @@
 import { process } from '/env'
-import OpenAI from "openai"
+import { OpenAI } from "openai"
 
 const setupInputContainer = document.getElementById('setup-input-container')
 const IntroText = document.getElementById('intro-text')
